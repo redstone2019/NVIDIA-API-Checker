@@ -1,4 +1,4 @@
-## NVIDIA-API-Checker [Releases](https://github.com/redstone2019/NVIDIA-API-Checker/releases/latest)
+## Website-Status-Checker [Releases](https://github.com/redstone2019/NVIDIA-API-Checker/releases/latest)
 This tool will use the command line to tell you information. In order to run it download by clicking releases above then run the exe. In about 10-30 seconds it will tell you the website status.
 ![alt text](https://cdn.discordapp.com/attachments/757644490952540331/760304368846897152/unknown.png)
 
