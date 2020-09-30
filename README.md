@@ -1,4 +1,4 @@
-# NVIDIA-API-Checker
+## NVIDIA-API-Checker [Releases](https://github.com/redstone2019/NVIDIA-API-Checker/releases/latest)
 This tool is command line run
 ![alt text](https://cdn.discordapp.com/attachments/757644490952540331/760304368846897152/unknown.png)
 You just need to run the file.
