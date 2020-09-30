@@ -1,7 +1,20 @@
-## Website-Status-Checker [Releases](https://github.com/redstone2019/NVIDIA-API-Checker/releases/latest)
-This tool will use the command line to tell you information. In order to run it download by clicking releases. Open a terminal windows and navigate to the directory you downloaded the exe to. Run the command ```WSC_Windows.exe -url=Your_URL_Here```. About every 10-30 seconds it will tell you the website status. Currently this tool only supports Microsoft Windows but I plan to add more OS types in the near future.
+## Website-Status-Checker 
+This tool will use the command line to tell you information. 
 ![alt text](https://cdn.discordapp.com/attachments/757644490952540331/760304368846897152/unknown.png)
+## Installing
+In order to run it download by clicking [releases](https://github.com/redstone2019/NVIDIA-API-Checker/releases/latest). Take note of where it downloads to.
+## Using The Tool
+If you just run the exe it will default to google.com. 
+### Windows
+| To use a different url open a cmd.exe window |
+|----------------------------------------------|
 
+Go to the directory of the file `cd C:\WhereTheFileIs`
+
+Run `WSC_Windows.exe -url=Your_URL_Here`
+### Other OS Types
+| Currently this tool only supports Microsoft Windows but I plan to add more OS types in the near future. |
+|---------------------------------------------------------------------------------------------------------|
 ## HTTP Status Codes [More Here](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 This section will tell you what each code from the software means.
 ## 10.2 Successful 2xx
