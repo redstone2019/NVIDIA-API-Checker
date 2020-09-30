@@ -1,7 +1,6 @@
 ## NVIDIA-API-Checker [Releases](https://github.com/redstone2019/NVIDIA-API-Checker/releases/latest)
-This tool is command line run
+This tool will use the command line to tell you information. In order to run it download by clicking releases above then run the exe. In about 10-30 seconds it will tell you the website status.
 ![alt text](https://cdn.discordapp.com/attachments/757644490952540331/760304368846897152/unknown.png)
-You just need to run the file.
 
 ## HTTP Status Codes [More Here](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 This section will tell you what each code from the software means.
