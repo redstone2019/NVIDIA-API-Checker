@@ -11,7 +11,7 @@ If you just run the exe it will default to google.com.
 
 Go to the directory of the file `cd C:\WhereTheFileIs`
 
-Run `WSC_Windows.exe -url=Your_URL_Here`
+Run `wsc_win.exe -url=Your_URL_Here`
 ### Other OS Types
 | Currently this tool only supports Microsoft Windows but I plan to add more OS types in the near future. |
 |---------------------------------------------------------------------------------------------------------|
