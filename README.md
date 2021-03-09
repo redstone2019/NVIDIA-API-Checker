@@ -1,6 +1,6 @@
 ## Website-Status-Checker 
 This tool will use the command line to tell you information. 
-![alt text](https://cdn.discordapp.com/attachments/757644490952540331/809488787524288583/unknown.png)
+![Example](https://cdn.discordapp.com/attachments/757644490952540331/818684107490984006/unknown.png)
 ## Installing
 In order to run it download by clicking [releases](https://github.com/redstone2019/NVIDIA-API-Checker/releases/latest). Take note of where it downloads to.
 ## Using The Tool
