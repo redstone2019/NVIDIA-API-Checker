@@ -1,21 +1,22 @@
 ## Website-Status-Checker 
 This tool will use the command line to tell you information. 
-![Example](https://cdn.discordapp.com/attachments/757644490952540331/818684107490984006/unknown.png)
+![Example of a Program Run](https://cdn.discordapp.com/attachments/757644490952540331/818684107490984006/unknown.png)
+*Example of a Program Run*
 ## Installing
-In order to run it download by clicking [releases](https://github.com/redstone2019/NVIDIA-API-Checker/releases/latest). Take note of where it downloads to.
+In order to run it download by clicking [releases](https://github.com/redstone2019/Website-Status-Checker/releases/latest). **Take note of where it downloads to.**
 ## Using The Tool
 If you just run the exe it will default to google.com. 
 ### Windows
 | To use a different url open a cmd.exe window |
 |----------------------------------------------|
 
-Go to the directory of the file `cd C:\WhereTheFileIs`
+Go to the directory of the file `cd C:\"Where you downloaded the program to"`
 
-Run `wsc_win.exe -url=Your_URL_Here`
+Run `wsc_win.exe -url="URL beginning with http:// or https://"`
 ### Other OS Types
-| Currently this tool only supports Microsoft Windows but I plan to add more OS types in the near future. |
-|---------------------------------------------------------------------------------------------------------|
-## HTTP Status Codes [More Here](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
+| Currently this tool only supports Microsoft Windows but I plan to add more OS types in the future. |
+|----------------------------------------------------------------------------------------------------|
+## HTTP Status Codes [More About Them Here](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 This section will tell you what each code from the software means.
 ## 10.2 Successful 2xx
 This class of status code indicates that the client's request was successfully received, understood, and accepted.
