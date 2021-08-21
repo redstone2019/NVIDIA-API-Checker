@@ -3,7 +3,7 @@ This tool will use the command line to tell you information.
 ![Example of a Program Run](https://cdn.discordapp.com/attachments/757644490952540331/818684107490984006/unknown.png)
 *Example of a Program Run*
 ## Installing
-In order to run it download by clicking [releases](https://github.com/redstone2019/Website-Status-Checker/releases/latest). __**Take note of where it downloads to.**__
+In order to run it download by clicking [releases](https://github.com/redstone2019/Website-Status-Checker/releases/latest). **Take note of where it downloads to.**
 ## Using The Tool
 If you just run the exe it will default to google.com. 
 ### Windows
