@@ -39,5 +39,10 @@ The server, while acting as a gateway or proxy, did not receive a timely respons
 ### 10.5.6 505 HTTP Version Not Supported
 The server does not support, or refuses to support, the HTTP protocol version that was used in the request message.
 
+## Unofficial HTTP Status Codes
+This section will tell you what each rare code from the software means.
+### 522 Connection Timed Out
+(Cloudflare Usage) Cloudflare is unable to reach the origin web server and the request timed out.
+
 ## Any Other Questions, Requests, or Problems?
 Make an issue if you want to suggest a feature, have a question or have found a bug.
